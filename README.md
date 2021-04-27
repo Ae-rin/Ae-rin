@@ -7,7 +7,7 @@ techs that I'm learning
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/jQuery-7719AA?style=flat-square&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/MSSQL-5E5E5E?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft SQL Server-5E5E5E?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=Ghostery&logoColor=black"/>
