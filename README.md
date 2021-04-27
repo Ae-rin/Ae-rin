@@ -4,7 +4,6 @@ techs that I'm learning
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-FCFBFA?style=flat-square&logo=Java&logoColor=black"/>
-</p> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/jQuery-7719AA?style=flat-square&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
@@ -12,6 +11,8 @@ techs that I'm learning
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=Ghostery&logoColor=black"/>
+</p> 
+
 <!--
 **Ae-rin/Ae-rin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
