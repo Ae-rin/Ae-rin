@@ -1,11 +1,9 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=00BAF2&height=250&section=header&text=Ae%20Rin%20Lee&fontSize=90)
 
-<p align="center">
+<center>
 ### Techs that I'm learning
-</p> 
-Techs that I'm learning 
-
+</center>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-FCFBFA?style=flat-square&logo=Java&logoColor=black"/>
