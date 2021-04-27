@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<h2>Techs that I'm learning</h2>
+Techs that I'm learning
 </p> 
 
 <p align="center">
