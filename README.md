@@ -3,7 +3,7 @@
 
 
 <p align="center">
-Techs that I'm learning
+✨ Techs that I'm learning ✨ 
 </p> 
 
 <p align="center">
