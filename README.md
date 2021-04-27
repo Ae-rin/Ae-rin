@@ -1,5 +1,14 @@
 ### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=00BAF2&height=250&section=header&text=Ae%20Rin%20Lee&fontSize=90)
+techs that I'm learning
+<img src="https://img.shields.io/badge/Java-FCFBFA?style=flat-square&logo=Java&logoColor=black"/>&nbsp 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp 
+<img src="https://img.shields.io/badge/jQuery-7719AA?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/MSSQL-5E5E5E?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=Ghostery&logoColor=black"/>&nbsp 
 <!--
 **Ae-rin/Ae-rin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
