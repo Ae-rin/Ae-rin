@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=00BAF2&height=250&section=header&text=Ae%20Rin%20Lee&fontSize=90)
 
-<h1 align="center" class="code-line">Techs that I'm learning</h1>
+<h2 align="center">Techs that I'm learning</h2>
 
 
 <p align="center">
